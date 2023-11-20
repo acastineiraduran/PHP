@@ -17,6 +17,9 @@
 
         $diferencias = array_diff($numeros, $numerosPares, $numerosPrimos);
         var_dump($diferencias);
+        echo "<br>";
+        $unidas = array_merge($numerosPares, $numerosPrimos);
+        var_dump($unidas);
 
     ?>
 </div>
