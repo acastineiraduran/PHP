@@ -7,7 +7,7 @@
 <body>
 <div class="container-fluid">
     <?php
-        echo "Soy el segundo fichero"
+        echo "Soy el segundo fichero";
     ?>
 </div>
 </body>
